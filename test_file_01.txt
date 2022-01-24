@@ -1,2 +1,4 @@
 Primeiro arquivo de teste.
 Esta linha foi escrita no trunk.
+ESta linha foi modificada a partir do ramo1.
+
